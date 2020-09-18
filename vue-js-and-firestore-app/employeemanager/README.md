@@ -1,6 +1,6 @@
 # employeemanager
 
-> Simple employee tracker
+> Learning vue with a simple empolyee manager tutorial
 
 ## Build Setup
 
